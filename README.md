@@ -26,8 +26,7 @@
 - Pandas & NumPy
 
 ### 🗄 Databases
-- MySQL
-- SQL Server
+- Microsoft SQL Server
 
 ### 🤖 Other Tools
 - Git & GitHub
