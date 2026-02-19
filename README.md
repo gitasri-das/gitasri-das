@@ -72,19 +72,30 @@
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
-- 💼 LinkedIn: (www.linkedin.com/in/gitasri-das)
-- 📧 Email: (gitasrid35@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/gitasri-das
+- 📧 Email: gitasrid35@gmail.com
+- 💻 GitHub: https://github.com/gitasri-das
+
+## ✨ Fun Fact
+
+⚡ I enjoy finding hidden patterns in data and turning numbers into meaningful stories.
+⚡ I believe data-driven decisions create smarter businesses.
+
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories!
+
 
 
 ---
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+⭐ If you like my work, feel free to explore my repositories!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000&size=35&center=true&vCenter=true&width=1000&lines=Data+Analyst;SQL+Developer;Power+BI+Developer)
 
