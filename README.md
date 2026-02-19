@@ -5,10 +5,12 @@
 
 ## 🚀 About Me
 
-🎓 Final Year BTech in Data Science  
-📊 Passionate about turning raw data into meaningful insights  
-💡 Interested in Data Analysis, Business Intelligence & Dashboard Development  
-📈 Currently preparing for Data Analyst roles  
+🎓 BTech Graduate in Data Science  
+📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights  
+📈 Skilled in data cleaning, analysis, and dashboard creation  
+💡 Strong interest in Business Intelligence and data-driven decision making  
+🚀 Actively seeking opportunities to start my career as a Data Analyst
+
 
 ---
 
