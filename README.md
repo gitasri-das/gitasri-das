@@ -75,7 +75,6 @@
 
 ## ✨ Fun Fact
 
-⚡ I enjoy finding hidden patterns in data and turning numbers into meaningful stories.
 ⚡ I believe data-driven decisions create smarter businesses.
 
 
