@@ -31,7 +31,7 @@
 
 ## 📫 Connect With Me
 [LinkedIn](www.linkedin.com/in/gitasri-das)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitasri-das&show_icons=true&theme=radical)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000&size=35&center=true&vCenter=true&width=1000&lines=Data+Analyst;Python+Developer;SQL+Learner)
 
