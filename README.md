@@ -23,7 +23,6 @@
 ### 📊 Data Analysis & Visualization
 - Excel (Pivot Tables, VLOOKUP, XLOOKUP)
 - Power BI
-- Matplotlib & Seaborn
 - Pandas & NumPy
 
 ### 🗄 Databases
@@ -86,16 +85,32 @@
 
 ---
 
-
-
-
----
+## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+</a>
+
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ⭐ If you like my work, feel free to explore my repositories!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000&size=35&center=true&vCenter=true&width=1000&lines=Data+Analyst;SQL+Developer;Power+BI+Developer)
 
