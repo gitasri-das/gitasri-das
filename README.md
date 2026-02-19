@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Gitasri Das  
 
-<!--
-**gitasri-das/gitasri-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BTech Data Science Student  
+📊 Aspiring Data Analyst  
+💻 Skilled in Python, SQL, Excel, Power BI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about data analysis  
+- Love building dashboards  
+- Currently preparing for Data Analyst roles  
+
+---
+
+## 🛠 Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Machine Learning Basics
+
+---
+
+## 📂 Projects
+🔹 SMS Spam Classifier  
+🔹 Customer CRM System  
+🔹 Sales Dashboard (Looker)
+
+---
+
+## 📫 Connect With Me
+[LinkedIn](your-link-here)
+
