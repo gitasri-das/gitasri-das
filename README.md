@@ -32,7 +32,6 @@
 
 ### 🤖 Other Tools
 - Git & GitHub
-- Streamlit
 - Basic Machine Learning
 
 ---
