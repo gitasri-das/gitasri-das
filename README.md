@@ -56,10 +56,7 @@
 
 ## 📊 GitHub Stats
 
-
-![GitHub Stats](https://api.github-readme-stats.vercel.app/api?username=gitasri-das&show_icons=true&theme=radical)
-
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitasri-das&theme=github_dark)
 
 ---
 
