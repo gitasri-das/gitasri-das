@@ -5,6 +5,10 @@
 
 ## 🚀 About Me
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
 
 
 🎓 BTech Graduate in Data Science  
