@@ -33,6 +33,14 @@
 - Basic Machine Learning
 
 ---
+## 📜 Certifications
+
+- 🎓 Introduction to Microsoft Excel – Simplilearn  
+  https://simpli.app.link/UKGf2o5e80b
+
+
+- 📊 Power BI Data Analysis – Coursera  
+  https://your-certificate-link
 
 ## 📂 Projects
 
