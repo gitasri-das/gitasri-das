@@ -5,12 +5,13 @@
 
 ## 🚀 About Me
 
+<img align="right" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
 🎓 BTech Graduate in Data Science  
 📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights  
 📈 Skilled in data cleaning, analysis, and dashboard creation  
 💡 Strong interest in Business Intelligence and data-driven decision making  
 🚀 Actively seeking opportunities to start my career as a Data Analyst
-<img align="right" width="400" src="https://cdn-icons-png.flaticon.com/512/4149/4149671.png">
 
 ---
 
