@@ -33,13 +33,14 @@
 - Basic Machine Learning
 
 ---
+
 ## 📜 Certifications
 
 - 🎓 Introduction to Microsoft Excel – Simplilearn  
-  https://simpli.app.link/UKGf2o5e80b
-  
-- 🎓 Introduction to Data Analytics – Simplilearn 
-  https://simpli-web.app.link/e/kOTQVNcg80b
+  [View Certificate](https://simpli.app.link/UKGf2o5e80b)
+
+- 🎓 Introduction to Data Analytics – Simplilearn  
+  [View Certificate](https://simpli-web.app.link/e/kOTQVNcg80b)**
 
 
 ## 📂 Projects
