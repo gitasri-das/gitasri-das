@@ -37,10 +37,10 @@
 
 - 🎓 Introduction to Microsoft Excel – Simplilearn  
   https://simpli.app.link/UKGf2o5e80b
+  
+- 🎓 Introduction to Data Analytics – Simplilearn 
+  https://simpli-web.app.link/e/kOTQVNcg80b
 
-
-- 📊 Power BI Data Analysis – Coursera  
-  https://your-certificate-link
 
 ## 📂 Projects
 
