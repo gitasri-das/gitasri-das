@@ -51,15 +51,14 @@
 - Implemented Multiple ML models
 - Created Streamlit web app interface
 
-### 🔹 Customer CRM System
-- Built with Streamlit & SQLite
-- Implemented User Authentication
-- Added Data Filtering & Analytics
+### 🔹 Bank Loan Analysis Dashboard (Excel)
 
-### 🔹 Sales Dashboard
-- Interactive Power BI dashboard
-- Data cleaning, transformation & visualization
-- Business insights extraction
+- Developed an interactive bank loan dashboard using Microsoft Excel
+- Analyzed 38K+ loan applications with key KPIs like funded amount, received amount, and interest rate
+- Used Pivot Tables, Charts, and Slicers to create dynamic visualizations
+- Identified loan trends by state, purpose, loan status, and employment length
+- Enabled data-driven insights through interactive filtering and dashboard design
+- View Dashboard: https://github.com/gitasri-das/Bank-Loan-Analysis-Dashboard
 
 ---
 
