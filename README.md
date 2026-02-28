@@ -5,6 +5,7 @@
 
 ## 🚀 About Me
 <img align="right" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 🎓 BTech Graduate in Data Science  
 📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights  
