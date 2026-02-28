@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gitasri Das</h1>
-<h3 align="center">Aspiring Data Analyst | BTech Data Science Student</h3>
+<h3 align="center">Aspiring Data Analyst | BTech Data Science Graduate</h3>
 
 ---
+
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🚀 About Me
 
 🎓 BTech Graduate in Data Science  
