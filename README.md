@@ -4,7 +4,6 @@
 ---
 
 ## 🚀 About Me
-
 <img align="right" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 🎓 BTech Graduate in Data Science  
