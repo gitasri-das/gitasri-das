@@ -2,11 +2,8 @@
 <h3 align="center">Aspiring Data Analyst | BTech Data Science Student</h3>
 
 ---
-
-## 🚀 About Me
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
+## 🚀 About Me
 
 🎓 BTech Graduate in Data Science  
 📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights  
